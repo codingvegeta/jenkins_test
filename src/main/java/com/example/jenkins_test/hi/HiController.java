@@ -1,4 +1,4 @@
-package com.example.hi;
+package com.example.jenkins_test.hi;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
